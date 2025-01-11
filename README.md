@@ -1,5 +1,7 @@
 # State-Drug-Utilization-Data-Analysis
 Analysis of State Drug Utilization using MDRP Program Data in United States.
 
+[Website Link:](https://sites.google.com/sdsu.edu/statedrugutilisation?usp=sharing)
+
 Medicaid Drug Rebate Program (MDRP) is the one we focus on in this project to visualize the impacts that this program has on the beneficiaries. By using the data on drug utilization across the U.S. states from 2013 to 2023 and applying different methods of analyzing and visualizing platforms, we hope to derive valuable feedback and conclusions so that we can see how effective MDRP has been in several years. We can also assess if there should be any improvement related to the drug reimbursement that potentially enhances beneficiaries’s access to medications. The first analysis examines the medication availability in underserved areas on drug utilization trends and reimbursement rates, to gain insights on whether the demand for most used drugs is fulfilled in these areas. The second analysis focuses on the comparison of drug utilization and reimbursement across different states, this can bring more insights into how variable the MDRP’s reimbursement rate is all over the US. The third analysis focuses on the comparison of reimbursement between Medicaid and non-Medicaid for the same type of drugs, comparing reimbursement over the years 2023, 2018, and 2013 and identifying the variability of reimbursement on a quarterly or seasonal basis.  
 
